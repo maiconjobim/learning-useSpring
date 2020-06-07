@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learning-useSpring/static/css/main.45cb33b4.chunk.css",
+    "main.js": "/learning-useSpring/static/js/main.cc9e48ef.chunk.js",
+    "main.js.map": "/learning-useSpring/static/js/main.cc9e48ef.chunk.js.map",
+    "runtime-main.js": "/learning-useSpring/static/js/runtime-main.62767d56.js",
+    "runtime-main.js.map": "/learning-useSpring/static/js/runtime-main.62767d56.js.map",
+    "static/js/2.466a0a7f.chunk.js": "/learning-useSpring/static/js/2.466a0a7f.chunk.js",
+    "static/js/2.466a0a7f.chunk.js.map": "/learning-useSpring/static/js/2.466a0a7f.chunk.js.map",
+    "index.html": "/learning-useSpring/index.html",
+    "precache-manifest.08c06565039cc80504749f70ce322a9c.js": "/learning-useSpring/precache-manifest.08c06565039cc80504749f70ce322a9c.js",
+    "service-worker.js": "/learning-useSpring/service-worker.js",
+    "static/css/main.45cb33b4.chunk.css.map": "/learning-useSpring/static/css/main.45cb33b4.chunk.css.map",
+    "static/js/2.466a0a7f.chunk.js.LICENSE.txt": "/learning-useSpring/static/js/2.466a0a7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62767d56.js",
+    "static/js/2.466a0a7f.chunk.js",
+    "static/css/main.45cb33b4.chunk.css",
+    "static/js/main.cc9e48ef.chunk.js"
+  ]
+}
